@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         BuddyBuildSDK.setup()
         
         // Override point for customization after application launch.
+        // Dummy Text updated 
         return true
     }
 
